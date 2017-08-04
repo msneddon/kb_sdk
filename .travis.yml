@@ -11,3 +11,4 @@ install:
 script:
   - make
   - make sdkbase
+  - make test
